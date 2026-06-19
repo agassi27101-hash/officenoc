@@ -1,0 +1,6 @@
+{
+  "name": "Antigravity Network Analytics",
+  "description": "Real-time packet inspection, throughput metrics, anomaly detection, and automated mitigation playbook powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
